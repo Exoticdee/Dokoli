@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Exoticdee
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning mysql
+- 👋 Hi, I’m @Dokoli
+- 👀 I’m interested in Nutrition Analyst
+- 🌱 I’m currently working on food and nutrion related projects
 - 💞️ I’m looking to collaborate on data scientists
 - 📫 How to reach me... 
 
